@@ -1,0 +1,1 @@
+// GPT翻訳Cloud Function
